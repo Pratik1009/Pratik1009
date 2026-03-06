@@ -21,7 +21,7 @@ Turning data into insights and building real-world analytical solutions.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="www.linkedin.com/in/pratik-pawar-63374226a" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -37,7 +37,7 @@ Turning data into insights and building real-world analytical solutions.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,r,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,Power BI , Ms Excel ,r,git,github"/>
 
 </p>
 
@@ -61,9 +61,9 @@ Turning data into insights and building real-world analytical solutions.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik1009&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1009&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -73,7 +73,7 @@ Turning data into insights and building real-world analytical solutions.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik1009&theme=tokyonight"/>
 
 </p>
 
