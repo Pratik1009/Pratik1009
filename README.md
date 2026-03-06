@@ -1,153 +1,34 @@
-<!-- ================= HERO HEADER ================= -->
-
+<!-- PROFILE HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1E3C72,50:2A5298,100:4facfe&text=Pratik%20Prakash%20Pawar&fontSize=48&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20Data%20Science%20%7C%20Data%20Analytics&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Pratik%20Prakash%20Pawar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- ================= TYPING INTRO ================= -->
+<h3 align="center">🚀 Data Analyst | AI & Data Science Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Graduate;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Engineer;Building+Data+Driven+Solutions&center=true&width=700&height=45&color=58A6FF">
-</p>
-
----
-
-# 👨‍💻 Hello World! I'm Pratik Pawar
-
-🎓 **B.Tech – Artificial Intelligence & Data Science (2025)**  
-
-💡 Passionate about **Data Analytics, Machine Learning, and Business Intelligence**.
-
-I specialize in transforming **raw data into insights** using **Python, SQL, Excel, and Power BI**.
-
-🚀 Career Interests
-
-• Data Analyst  
-• Business Analyst  
-• Data Engineer  
-• Machine Learning Engineer  
-
----
-
-# 🧠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
-
-</p>
-
-### Data Analysis Libraries
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
-
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge">
-
-</p>
-
-### Visualization
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Graduate;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Real+World+Data+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 👨‍💻 About Me
 
-<p align="center">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+🎓 **B.Tech in Artificial Intelligence & Data Science (2025)**  
+📊 Passionate about **Data Analytics, AI & Business Insights**  
+💡 Love turning **data into meaningful decisions**  
+📍 Based in **Pune, India**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+💼 Target Roles:
 
-</p>
+- Data Analyst
+- Business Analyst
+- Data Engineer
+- Product Analyst
 
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Intelligent Waste Collection & Segregation Robot
-
-AI-powered robotic system that automatically detects and segregates waste.
-
-Tech Used:
-
-• Raspberry Pi  
-• YOLO Tiny Object Detection  
-• Arduino Motor Control  
-• Autonomous & Bluetooth Mode  
-• Solar Powered System
-
----
-
-### 📊 Business Intelligence Dashboard
-
-Interactive **Power BI dashboard** providing business insights.
-
-Features:
-
-• KPI Tracking  
-• Sales Trend Analysis  
-• Regional Insights  
-• Dynamic Filters
-
----
-
-### 📈 Machine Learning Prediction Model
-
-Data science project that predicts outcomes using ML algorithms.
-
-Includes:
-
-• Data Cleaning  
-• Feature Engineering  
-• Model Training  
-• Accuracy Optimization
-
----
-
-# 🏆 Certifications
-
-🎓 Deep Learning Certification  
-
-🎓 Data Science with Python  
-
-🎓 AWS Cloud Foundations  
-
-🎓 Artificial Intelligence Certification  
+⚡ Fun Fact  
+> I enjoy building **automation, dashboards, and ML solutions that solve real problems.**
 
 ---
 
@@ -156,33 +37,140 @@ Includes:
 <p align="center">
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pawarpratik749@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Visitors
+# 🧠 Skills & Technologies
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
+</p>
+
+### Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 📈 Contribution Graph
 
-💡 *Without data you're just another person with an opinion.*
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Sales Analytics Dashboard
+
+Power BI dashboard analyzing sales performance.
+
+✔ KPI Tracking  
+✔ Revenue Analysis  
+✔ Interactive Filters  
+
+---
+
+### 🤖 Intelligent Waste Segregation Robot
+
+AI powered robotics system that detects waste using **YOLO-Tiny**.
+
+Tech Used:
+
+- Raspberry Pi
+- Arduino
+- Computer Vision
+- Machine Learning
+
+---
+
+### 📉 Customer Churn Prediction
+
+Machine Learning model predicting customer churn.
+
+Tech Stack:
+
+- Python
+- Scikit-Learn
+- Pandas
+- Feature Engineering
+
+---
+
+# 🏆 Certifications
+
+🎓 Deep Learning Certification  
+🎓 AWS Cloud Foundations  
+🎓 Data Science with Python  
+🎓 Artificial Intelligence Fundamentals  
+
+---
+
+# 📊 Profile Metrics
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+# ☕ Support
+
+If you like my work, give a ⭐ to my repositories!
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E3C72,50:2A5298,100:4facfe&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
 </p>
