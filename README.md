@@ -92,9 +92,9 @@ Machine Learning
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik Pawar&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik1009&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik Pawar&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1009&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -104,7 +104,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik1009&theme=tokyonight"/>
 
 </p>
 
@@ -114,7 +114,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pratik1009&theme=algolia&row=1&column=7"/>
 
 </p>
 
@@ -124,7 +124,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik1009&theme=react-dark"/>
 
 </p>
 
