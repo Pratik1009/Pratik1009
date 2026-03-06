@@ -1,115 +1,118 @@
-<h1 align="center">Hi 👋, I'm Pratik Prakash Pawar</h1>
-<h3 align="center">AI & Data Science Graduate | Data Analyst | Python • SQL • Power BI • Excel</h3>
-
+<!-- Animated Header -->
 <p align="center">
-Turning data into insights and building real-world analytical solutions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Pratik%20Prakash%20Pawar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Graduate;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Real+World+Data+Projects&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
+# 👋 Hello World
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**
-- 📊 Passionate about **Data Analytics & Business Intelligence**
-- 🐍 Skilled in **Python, SQL, Power BI, Excel**
-- 📈 Interested in **Data Visualization, Machine Learning & Predictive Analytics**
-- 🤖 Built projects in **AI, Data Analytics, and Robotics**
-- 📍 Based in **Pune, India**
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+📊 Passionate about **Data Analytics, Visualization & Machine Learning**  
+📍 Based in **Pune, India**
+
+I enjoy transforming **raw data into meaningful insights** and building analytical solutions that support better business decisions.
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Tech Stack
 
-<p align="left">
-<a href="www.linkedin.com/in/pratik-pawar-63374226a" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,r,git,github,vscode"/>
+
+</p>
+
+### Data Tools
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL / MySQL
+- Power BI
+- Microsoft Excel
+- Data Cleaning & Visualization
+- Machine Learning Basics
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 📊 Power BI Sales Dashboard
+Interactive dashboard analyzing regional sales performance and KPIs.
+
+### 🐍 Python Data Analysis
+Exploratory data analysis with Pandas and Matplotlib.
+
+### 🗄 SQL Business Case Study
+Advanced SQL queries for customer and revenue analysis.
+
+### 🤖 Intelligent Waste Collection Robot
+AI-based waste detection system using Raspberry Pi and Arduino.
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pawarpratik749@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+# 🏆 Certifications
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,Power BI , Ms Excel ,r,git,github"/>
-
-</p>
-
-**Data Analysis & Visualization**
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL / MySQL  
-- Power BI  
-- Microsoft Excel  
-- Data Cleaning & Data Visualization  
-
-**Machine Learning**
-
-- Predictive Modeling  
-- Feature Engineering  
-- Model Evaluation  
+✔ Data Science with Python  
+✔ Deep Learning  
+✔ AWS Cloud Foundations  
+✔ Artificial Intelligence  
 
 ---
 
-## 📊 GitHub Stats
+# 👀 Profile Views
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik1009&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1009&layout=compact&theme=tokyonight"/>
-
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
-
+<!-- Animated Footer -->
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik1009&theme=tokyonight"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>
-
----
-
-## 📂 Featured Projects
-
-### 📊 Power BI Sales Dashboard
-Business intelligence dashboard analyzing regional sales performance and KPIs.
-
-### 🐍 Python Sales Data Analysis
-Exploratory Data Analysis using Pandas and Matplotlib to identify trends and insights.
-
-### 🗄 SQL E-commerce Data Analysis
-Complex SQL queries to analyze customer behavior and revenue metrics.
-
-### 🤖 Intelligent Waste Collection Robot
-AI-based waste detection and robotic arm automation using Raspberry Pi and Arduino.
-
----
-
-## 🏆 Certifications
-
-- Data Science with Python
-- Deep Learning
-- AWS Cloud Foundations
-- Artificial Intelligence Certification
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=blue&style=flat"/>
-</p>
-
----
-
-⭐ From [Pratik Prakash Pawar](https://github.com/YOUR-USERNAME)
