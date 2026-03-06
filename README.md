@@ -1,12 +1,12 @@
-<!-- HERO HEADER -->
+<!-- HERO BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Pratik%20Prakash%20Pawar&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1F1C2C,50:928DAB,100:1F1C2C&text=Pratik%20Prakash%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Engineer;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Machine+Learning+Enthusiast;Turning+Data+into+Business+Decisions;Building+Real+World+Analytics+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Engineer;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Machine+Learning+Enthusiast;Turning+Data+Into+Business+Decisions;Building+Real+World+Analytics+Projects"/>
 
 </p>
 
@@ -21,11 +21,11 @@
 </a>
 
 <a href="mailto:pawarpratik749@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=react"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -34,26 +34,26 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **B.Tech Artificial Intelligence & Data Science (2025)**  
 📍 Pune, India  
 
-I specialize in transforming **complex datasets into strategic business insights**.
+I specialize in turning **complex datasets into strategic insights**.
 
-💡 My expertise focuses on:
+💡 Core Interests:
 
-• Data Analysis  
+• Data Analytics  
 • Machine Learning  
 • Business Intelligence  
+• Predictive Modeling  
 • Data Visualization  
-• Predictive Analytics  
 
-⚡ Passionate about building **automation, dashboards, and ML models that solve real problems.**
+⚡ Passionate about building **real-world AI & analytics solutions.**
 
 ---
 
-# 🧠 Tech Stack
+# ⚙️ Tech Stack
 
 <p align="center">
 
@@ -64,20 +64,31 @@ I specialize in transforming **complex datasets into strategic business insights
 <p align="center">
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics Dashboard
+# 📊 Skill Progress
+
+Python  
+██████████████████░░░ 90%
+
+SQL  
+█████████████████░░░░ 85%
+
+Power BI  
+████████████████░░░░░ 80%
+
+Machine Learning  
+██████████████░░░░░░░ 75%
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -89,7 +100,27 @@ I specialize in transforming **complex datasets into strategic business insights
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -99,7 +130,7 @@ I specialize in transforming **complex datasets into strategic business insights
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -111,60 +142,45 @@ I specialize in transforming **complex datasets into strategic business insights
 
 # 🚀 Featured Projects
 
-### 📊 Sales Data Analysis Dashboard
+### 🤖 Intelligent Waste Segregation Robot
 
-Business intelligence dashboard analyzing company revenue trends.
+AI-based robot detecting waste using computer vision.
 
-**Tech Stack**
-
-Python • Pandas • Power BI • SQL
+Tech Stack  
+Python • Raspberry Pi • Arduino • YOLO
 
 ---
 
-### 🤖 Intelligent Waste Segregation Robot
+### 📊 Sales Analytics Dashboard
 
-AI-powered robotics system detecting waste using computer vision.
+Power BI dashboard analyzing company revenue trends.
 
-**Tech Stack**
-
-Raspberry Pi • Arduino • YOLO • Python
+Tech Stack  
+Power BI • SQL • Excel
 
 ---
 
 ### 📉 Customer Churn Prediction
 
-Machine learning model predicting churn using feature engineering and predictive analytics.
+Machine learning model predicting customer churn.
 
-**Tech Stack**
-
-Python • Scikit-Learn • Pandas • Matplotlib
-
----
-
-### 📊 Financial Analytics Dashboard
-
-Power BI dashboard tracking revenue, expenses, and profit KPIs.
-
-**Tech Stack**
-
-Power BI • DAX • SQL
+Tech Stack  
+Python • Pandas • Scikit-Learn
 
 ---
 
-# 🏆 Certifications
+# 💡 Developer Quote
 
-✔ Deep Learning  
-✔ AWS Cloud Foundations  
-✔ Data Science with Python  
-✔ Artificial Intelligence Fundamentals
+> “Without data, you're just another person with an opinion.”  
+> — W. Edwards Deming
 
 ---
 
-# 📊 Profile Metrics
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
 
 </p>
 
@@ -172,6 +188,6 @@ Power BI • DAX • SQL
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F1C2C,50:928DAB,100:1F1C2C&section=footer"/>
 
 </p>
