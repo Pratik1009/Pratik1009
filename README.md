@@ -92,7 +92,7 @@ Machine Learning
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik1009&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik2009&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1009&layout=compact&theme=tokyonight"/>
 
