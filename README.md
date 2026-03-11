@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Pratik1009">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -64,7 +64,7 @@ I specialize in turning **complex datasets into strategic insights**.
 <p align="center">
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
 
@@ -83,11 +83,11 @@ SQL
 Power BI  
 ████████████████░░░░░ 80%
 
-MS Excel  
-████████████████░░░░░ 80%
-
 Machine Learning  
 ██████████████░░░░░░░ 75%
+
+MS Excel  
+████████████████░░░░░ 80%
 
 ---
 
@@ -95,9 +95,9 @@ Machine Learning
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik1009&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1009&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -107,7 +107,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik1009&theme=tokyonight"/>
 
 </p>
 
@@ -117,7 +117,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pratik1009&theme=algolia&row=1&column=7"/>
 
 </p>
 
@@ -127,7 +127,17 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik1009&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -141,30 +151,32 @@ Machine Learning
 
 <td width="50%">
 
-### 🛍 Shopify Product Sales Dashboard  
-Power BI dashboard analyzing Shopify sales performance and KPIs.
+### 🛒 Shopify Product Sales Dashboard
 
-**Tools Used**
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" width="100%"/>
 
-Power BI (Data Modeling, Power Query, DAX, Dashboards)
+Power BI dashboard analyzing Shopify product sales performance.
 
-Repository  
-https://github.com/YOUR_GITHUB_USERNAME/Shopify-Product-Sales-Dashboard
+**Tech Stack**
+
+Power BI  
+(Data Modeling, Power Query, DAX, Dashboards)
 
 </td>
 
 <td width="50%">
 
-### 🏦 Bank Customer Churn Model  
+### 🏦 Bank Customer Churn Model
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="100%"/>
+
 Machine learning model predicting bank customer churn.
 
-**Tools Used**
+**Tech Stack**
 
-Python • Pandas • Scikit-Learn  
+Python  
+Scikit-Learn  
 Jupyter Notebook
-
-Repository  
-https://github.com/YOUR_GITHUB_USERNAME/Bank-Customer-Churn-Model
 
 </td>
 
@@ -174,32 +186,37 @@ https://github.com/YOUR_GITHUB_USERNAME/Bank-Customer-Churn-Model
 
 <td width="50%">
 
-### 🌿 Vegetable Disease Detection  
-Deep learning model detecting plant diseases from images.
+### 🥦 Vegetable Disease Detection
 
-**Tools Used**
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="100%"/>
 
-TensorFlow • Keras  
-Data Science Project  
+Deep learning model detecting vegetable diseases using CNN.
+
+**Tech Stack**
+
+TensorFlow  
+Keras  
+Data Science  
 Jupyter Notebook
-
-Repository  
-https://github.com/YOUR_GITHUB_USERNAME/Vegetable-Disease-Detection
 
 </td>
 
 <td width="50%">
 
-### 🛒 Fashion Store Data Analysis  
-Excel dashboard analyzing fashion store sales data.
+### 🛍 Fashion Store Data Analysis (Excel)
 
-**Tools Used**
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="100%"/>
+
+Excel dashboard analyzing fashion store sales and performance.
+
+**Tech Stack**
 
 MS Excel  
-(Pivot Tables, VLOOKUP/XLOOKUP, Advanced Formulas, Dashboards, Reporting)
-
-Repository  
-https://github.com/YOUR_GITHUB_USERNAME/Fashion-Store-Data-Analysis-Excel
+Pivot Tables  
+VLOOKUP / XLOOKUP  
+Advanced Formulas  
+Dashboards  
+Reporting
 
 </td>
 
@@ -220,7 +237,7 @@ https://github.com/YOUR_GITHUB_USERNAME/Fashion-Store-Data-Analysis-Excel
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Pratik1009&style=for-the-badge"/>
 
 </p>
 
