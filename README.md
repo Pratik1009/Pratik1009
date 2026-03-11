@@ -153,7 +153,6 @@ MS Excel
 
 ### 🛒 Shopify Product Sales Dashboard
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" width="100%"/>
 
 Power BI dashboard analyzing Shopify product sales performance.
 
@@ -167,8 +166,6 @@ Power BI
 <td width="50%">
 
 ### 🏦 Bank Customer Churn Model
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="100%"/>
 
 Machine learning model predicting bank customer churn.
 
@@ -188,8 +185,6 @@ Jupyter Notebook
 
 ### 🥦 Vegetable Disease Detection
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="100%"/>
-
 Deep learning model detecting vegetable diseases using CNN.
 
 **Tech Stack**
@@ -205,7 +200,6 @@ Jupyter Notebook
 
 ### 🛍 Fashion Store Data Analysis (Excel)
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="100%"/>
 
 Excel dashboard analyzing fashion store sales and performance.
 
