@@ -1,193 +1,107 @@
-<!-- HERO BANNER -->
+# 🚀 Featured Data Projects
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1F1C2C,50:928DAB,100:1F1C2C&text=Pratik%20Prakash%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>🛒 Shopify Product Sales Dashboard</h3>
+
+<p>
+Interactive <b>Power BI dashboard</b> analyzing product sales, revenue trends, and category performance.
 </p>
 
-<p align="center">
+<p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Engineer;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Machine+Learning+Enthusiast;Turning+Data+Into+Business+Decisions;Building+Real+World+Analytics+Projects"/>
+<b>Tech Stack</b><br>
+
+Power BI • Data Modeling • Power Query • DAX • Dashboards
 
 </p>
 
----
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/Shopify-Product-Sales-Dashboard">
+<img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge"/>
 </a>
 
-<a href="mailto:pawarpratik749@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</td>
+
+<td width="50%">
+
+<h3>🏦 Bank Customer Churn Model</h3>
+
+<p>
+Machine Learning model predicting customer churn using classification algorithms and feature engineering.
+</p>
+
+<p>
+
+<b>Tech Stack</b><br>
+
+Python • Pandas • Scikit-Learn • Jupyter Notebook
+
+</p>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/Bank-Customer-Churn-Model">
+<img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🥬 Vegetable Disease Detection</h3>
+
+<p>
+Deep Learning model detecting plant diseases using image classification.
+</p>
+
+<p>
+
+<b>Tech Stack</b><br>
+
+TensorFlow • Keras • CNN • Data Science • Jupyter Notebook
+
+</p>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/Vegetable-Disease-Detection">
+<img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge"/>
 </a>
 
+</td>
+
+<td width="50%">
+
+<h3>📊 Fashion Store Data Analysis</h3>
+
+<p>
+Excel-based data analytics project analyzing sales trends, top products, and customer insights.
 </p>
 
----
+<p>
 
-# 👨‍💻 About Me
+<b>Tech Stack</b><br>
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 **B.Tech Artificial Intelligence & Data Science (2025)**  
-📍 Pune, India  
-
-I specialize in turning **complex datasets into strategic insights**.
-
-💡 Core Interests:
-
-• Data Analytics  
-• Machine Learning  
-• Business Intelligence  
-• Predictive Modeling  
-• Data Visualization  
-
-⚡ Passionate about building **real-world AI & analytics solutions.**
-
----
-
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,aws,docker,git,github,vscode,linux"/>
+MS Excel • Pivot Tables • VLOOKUP/XLOOKUP • Advanced Formulas • Dashboards • Reporting
 
 </p>
 
-<p align="center">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%">
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/Fashion-Store-Data-Analysis-Excel-">
+<img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge"/>
+</a>
 
-</p>
+</td>
 
----
-
-# 📊 Skill Progress
-
-Python  
-██████████████████░░░ 90%
-
-SQL  
-█████████████████░░░░ 85%
-
-Power BI  
-████████████████░░░░░ 80%
-
-Machine Learning  
-██████████████░░░░░░░ 75%
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik1009&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1009&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik1009&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pratik1009&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik1009&theme=react-dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Intelligent Waste Segregation Robot
-
-AI-based robot detecting waste using computer vision.
-
-Tech Stack  
-Python • Raspberry Pi • Arduino • YOLO
-
----
-
-### 📊 Sales Analytics Dashboard
-
-Power BI dashboard analyzing company revenue trends.
-
-Tech Stack  
-Power BI • SQL • Excel
-
----
-
-### 📉 Customer Churn Prediction
-
-Machine learning model predicting customer churn.
-
-Tech Stack  
-Python • Pandas • Scikit-Learn
-
----
-
-# 💡 Developer Quote
-
-> “Without data, you're just another person with an opinion.”  
-> — W. Edwards Deming
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F1C2C,50:928DAB,100:1F1C2C&section=footer"/>
-
-</p>
+</tr>
+</table>
